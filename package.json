@@ -1,0 +1,26 @@
+{
+  "name": "trayslator",
+  "version": "1.0.0",
+  "description": "A simple translator for macOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestii/Trayslator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernestii/Trayslator/issues"
+  },
+  "homepage": "https://github.com/ernestii/Trayslator#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "menubar": "^5.2.3",
+    "react": "^15.4.2",
+    "react-debounce-input": "^2.4.2",
+    "react-dom": "^15.4.2"
+  }
+}
